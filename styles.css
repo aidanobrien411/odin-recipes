@@ -1,0 +1,38 @@
+.title {
+    text-align: center;
+    background-color: orange;
+    color: black;
+    font-family: 'Roboto', sans-serif;
+}
+
+.recipe-list,
+a:visited {
+    text-align:left;
+    font-size: 28px;
+    color: rgb(43, 226, 52);
+    list-style-position: inside;
+}
+
+.recipe-title {
+    color: blue;
+    text-align: center;
+    font-size: 50px;
+}
+
+.description,
+.ingredients,
+.steps {
+    text-align: left;
+    font-size: 25px;
+}
+.recipe-img {
+    height: 800px;
+    width: 1500px;
+    margin: auto;
+    display: block;
+}
+
+.paragraph {
+    font-size: 25px;
+    color: orange;
+}
